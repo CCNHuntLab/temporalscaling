@@ -1,6 +1,8 @@
 # Temporal Scaling  
 
-Analysis script for "Temporal Scaling of Human Scalp-Recorded Potentials".  
+Analysis script for "Temporal Scaling of Human Scalp-Recorded Potentials".
+Cameron D. Hassall, Jack Harley, Nils Kolling, Laurence T. Hunt
+https://doi.org/10.1101/2020.12.11.421180
 
 /simulations: Simulate a mixture of fixed and scaled components.  
 /statsandfigures: Manuscript stats and figures.  
