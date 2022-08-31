@@ -1,6 +1,7 @@
 # Temporal Scaling  
 
 Analysis script for "Temporal Scaling of Human Scalp-Recorded Potentials".
+bioRxiv Preprint, 2022
 Cameron D. Hassall, Jack Harley, Nils Kolling, Laurence T. Hunt
 https://doi.org/10.1101/2020.12.11.421180
 
